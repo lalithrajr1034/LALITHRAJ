@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Lalitraj R
 - 👀 I’m interested in Web Developnment
 - 🌱 I’m currently learning on App developnment
-- 💞️ I’m looking to collaborate on Free lancer
+- 💞️ I’m looking to collaborate on Computer Vision
 - 📫 How to reach me call 8317384966
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
