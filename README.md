@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lalitraj77
+- 👋 Hi, I’m @Lalitraj R
 - 👀 I’m interested in Web Developnment
 - 🌱 I’m currently learning on App developnment
 - 💞️ I’m looking to collaborate on Free lancer
