@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Frontend**
 
-- 📫 How to reach me **lalithrajr838@gmail.com**
+- 📫 How to reach me **placement1034@gmail.com**
 
 - ⚡ Fun fact **I am Good person**
 
