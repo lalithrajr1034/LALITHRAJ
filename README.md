@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm LALITHRAJ R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Flutter, Python**
+- 🔭 I’m currently working on **Machine learning, Python**
 
-- 🌱 I’m currently learning **Angular JS, React JS**
+- 🌱 I’m currently learning **Numpy, Pandas, Scikit learn**
 
 - 👯 I’m looking to collaborate on **Computer Visin**
 
-- 🤝 I’m looking for help with **AI**
+- 🤝 I’m looking for help with **AI & ML**
 
 - 👨‍💻 All of my projects are available at [GITHUB PROFILE GENERATOR](GITHUB PROFILE GENERATOR)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **placement1034@gmail.com**
 
 - ⚡ Fun fact **I am Good person**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 8317384966</h3>
 <p align="left">
 </p>
 
