@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **placement1034@gmail.com**
+- 📫 How to reach me **lalithrajr672@gmail.com**
 
 - ⚡ Fun fact **I am Good person**
 
